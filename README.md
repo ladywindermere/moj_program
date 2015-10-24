@@ -1,0 +1,2 @@
+# moj_program
+początki
